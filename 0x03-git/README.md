@@ -1,1 +1,1 @@
-Command git
+It’s time to code!
